@@ -1,0 +1,125 @@
+library(ggplot2)
+library(plyr)
+library(dplyr)
+library(ggthemes)
+library(RColorBrewer)
+library(viridis)
+library(scales)
+##ordination graph
+#distance matrix
+dis73 <- read.delim('amphi_unwei.tsv', row.names = 1, sep = '\t', stringsAsFactors = F, check.names = F) %>% as.dist()
+dis73 <- read.delim('amphi_env_unwei.tsv', row.names = 1, sep = '\t', stringsAsFactors = F, check.names = F) %>% as.dist()
+
+#experiment design files
+group <- read.table('metadata.tsv', sep = '\t',header = T,stringsAsFactors = T)
+
+pcs1 <- ape::pcoa(dis73)
+pcs2 <- ape::pcoa(disae)
+pcoa_basic = function(metadata,pcoa_object, axis1, axis2)
+{
+  
+  given_pcoa = pcoa_object
+  given_metadata=metadata
+  # Store axes names
+  kept_axes = paste0("Axis.", c(axis1, axis2))
+  
+  pcoa_df = as.data.frame(given_pcoa$vectors)
+  
+  eigen_values = given_pcoa$values$Relative_eig[c(axis1, axis2)]
+  names(eigen_values) = kept_axes
+  
+  axes_labs = lapply(kept_axes, function(x) {
+    paste0(gsub(".", " ", x, fixed = TRUE),
+           " (", round(eigen_values[x] * 100, 2), "%)")
+  })
+  
+  #merge  metadata
+  pcoa_df$names <- rownames(pcoa_df)
+  names(given_metadata)[1] <- c('names')
+  
+  pcoa_df <- merge(pcoa_df, group,by ='names', all.x = T)
+  pcoa_df <- within(pcoa_df, Habitat_0 <- factor(Habitat_0, levels = c('Supralittoral','Intertidal','Subtidal','Bathypelagic','Hadopelagic')))
+  pcoa_df <- within(pcoa_df, grouping <- factor(grouping, levels = c('Detritivore','Herbivore','Scavenger','Environment')))
+  
+  fig = ggplot(pcoa_df,aes_string(x = kept_axes[1],
+                                               y = kept_axes[2])) +
+    geom_point(aes(color=depth,shape=sample_type),size =4,alpha=.8 ) +
+    scale_color_manual(values = c('lightskyblue','mediumpurple2','yellow1'))+
+    scale_shape_manual(values = c(19,17,15,25,18))+
+    #Labels & legend
+    labs(x = paste('PCoA',axes_labs[[1]]),
+         y = paste('PCoA',axes_labs[[2]]))+
+    labs(color="Diet", shape='Habitat') +
+    #theme
+    theme_bw() +
+    theme(panel.grid = element_blank())+
+    theme(legend.position = 'right')+
+    theme(legend.title = element_text(size=12,face='bold'),
+          legend.text = element_text(size=12)
+    )+
+    theme(axis.title=element_text(size=12,face = "bold"))+
+    ggtitle('')+
+    # Add dashed axes
+    geom_hline(yintercept = 0, linetype = 2, color = 'gray') +
+    geom_vline(xintercept = 0, linetype = 2, color = 'gray')
+  return(fig)
+}
+
+p_depth = function(metadata,pcoa_object, axis1, axis2)
+{
+  
+  given_pcoa = pcoa_object
+  given_metadata=metadata
+  # Store axes names
+  kept_axes = paste0("Axis.", c(axis1, axis2))
+  
+  pcoa_df = as.data.frame(given_pcoa$vectors)
+  
+  eigen_values = given_pcoa$values$Relative_eig[c(axis1, axis2)]
+  names(eigen_values) = kept_axes
+  
+  axes_labs = lapply(kept_axes, function(x) {
+    paste0(gsub(".", " ", x, fixed = TRUE),
+           " (", round(eigen_values[x] * 100, 2), "%)")
+  })
+  
+  #merge  metadata
+  pcoa_df$names <- rownames(pcoa_df)
+  names(given_metadata)[1] <- c('names')
+  
+  pcoa_df <- merge(pcoa_df, group,by ='names', all.x = T)
+  pcoa_df <- within(pcoa_df, grouping <- factor(grouping, levels = c('Aquatic amphipod','Environment')))
+  
+  
+  given_pcoa_plot2 = ggplot(pcoa_df,aes_string(x = kept_axes[1],
+                                               y = kept_axes[2])) +
+    geom_point(aes(color=depth,shape=sample_type),size =4,alpha=.8 ) +
+    scale_shape_manual(values = c(19,17,15,25,18))+
+    #Labels & legend
+    scale_color_viridis(discrete = F, option = "D",direction = -1,breaks= c (0,1000,4000,6000,10000))+
+    labs(x = paste('PCoA',axes_labs[[1]]),
+         y = paste('PCoA',axes_labs[[2]]))+
+    labs(color="Depth(m)", shape='Sample') +
+    #theme
+    theme_bw() +
+    theme(panel.grid = element_blank())+
+    theme(legend.position = 'right')+
+    theme(legend.title = element_text(size=12,face='bold'),
+          legend.text = element_text(size=12)
+    )+
+    theme(axis.title=element_text(size=12,face = "bold"))+
+    ggtitle('')+
+    # Add dashed axes
+    geom_hline(yintercept = 0, linetype = 2, color = 'gray') +
+    geom_vline(xintercept = 0, linetype = 2, color = 'gray')
+  return(given_pcoa_plot2)
+}
+
+
+plt=p_depth(group,pcs1,1,2)
+
+ggsave("pcs_amphi.png", plot=plt, width=150, height=100, units="mm", dpi=600)
+
+plt=p_depth(group,pcs2,1,2)
+
+ggsave("pcs_amphi_env.png", plot=plt, width=150, height=100, units="mm", dpi=600)
