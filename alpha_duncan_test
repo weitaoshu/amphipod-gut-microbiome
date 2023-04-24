@@ -1,0 +1,11 @@
+install.packages("FSA")
+library(FSA)
+setwd('./')
+data=read.table("alpha-dunntest-simpson.txt ", header=T, row.names=1, dec=".", sep="\t")
+data=read.table("alpha-dunntest-simpson.txt ", header=T,dec=".", sep="\t")
+View(data)
+df1<-data.frame(x1,y1)
+df1<-data(x1,y1)
+View(data)
+data
+dunnTest(y1~x1,data=data)
