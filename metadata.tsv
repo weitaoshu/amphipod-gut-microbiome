@@ -1,0 +1,161 @@
+names	depth	zone	depth_layer	sample_type	isolation_source	Habitat_1	Habitat_0	Lifestyle	grouping	grouping_2	diet	diet_algae	diet_carrion	diet_sediment	site	host_species	host_order	host_Superfamily	host_family	host_genus
+AD10	2802	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+AD7	2091	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+AD9	2091	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+AG1	6957	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG2	6957	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG3	7125	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG4	7125	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG5	6957	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG6	6957	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG7	7125	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+Emag1	1000	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	E.magellanicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag3	1000	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	E.magellanicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag4	1000	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	E.magellanicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag5	1000	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	E.magellanicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag6	1000	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	E.magellanicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp1	1226	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp2	1226	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp3	1226	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp4	1226	ds	1000-4000	Marine amphipod	Amphipod	Aquatic	Bathypelagic	Nekton	Scavenger	Bathyal amphipod	scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Halice1	10910	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice2	10910	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice3	10910	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice4	10910	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice5	10910	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Hgigas1	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas6	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas3	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas4	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas5	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas7	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas8	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas9	10109	ds	>10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hya1	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya2	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya3	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya4	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya5	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya6	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya7	3	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya8	4	c	0-1001	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya9	5	c	0-1002	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Ischy1	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+Ischy2	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+Ischy3	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+KA10	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+KA11	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+KA12	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Talorchestia ugolinii	Amphipoda	Talitroidea	Talitridae	Britorchestia
+KA13	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Talorchestia ugolinii	Amphipoda	Talitroidea	Talitridae	Britorchestia
+KA14	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Orchestia stephenseni	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA2	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA3	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Orchestia montagui	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA4	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA5	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA6	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Orchestia stephenseni	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA8	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Orchestia montagui	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA9	0	c	sand	Terrestrial amphipod	Amphipod	Terrestrial	Supralittoral	Benthic	Detritivore	Coastal	detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+Prin1	8226	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin2	8226	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin3	8226	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin4	8226	ds	6000-10000	Marine amphipod	Amphipod	Aquatic	Hadopelagic	Nekton	Scavenger	Hadal amphipod	scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+SYA	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+SYB	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+SYC	2	c	0-1000	Marine amphipod	Amphipod	Aquatic	Intertidal	Plankton	Herbivore	Coastal	herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+XM1	7.7	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM2	5	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM4	5.7	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM5	5	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM6	8.2	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM7	7.7	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM9	7.5	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM10	8.8	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM12.1	7.3	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+XM12.2	7.3	c	0-200	Marine amphipod	Amphipod	Aquatic	Subtidal	Benthic	Detritivore	Coastal	detritivore				XM	Ampeliscidae sp.				
+W10500-1	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10500-2	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-1	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-2	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-3	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-4	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10500-3	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10500-4	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10500-5	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10500-6	10500	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-5	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W10400-6	10400	ds	>10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-1	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-2	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-1	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-2	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-3	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-4	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-3	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-4	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-5	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W4000-6	4000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-5	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+W9600-6	9600	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA413447		
+3KL	3000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA412129		
+3KS	3000	ds	3000-6000	Environment	Environment	seawater	Bathypelagic		Environment	Environment					MT	Environment		PRJNA412129		
+5KL	5000	ds	3000-6000	Environment	Environment	seawater	Abyssopelagic		Environment	Environment					MT	Environment		PRJNA412129		
+5KS	5000	ds	3000-6000	Environment	Environment	seawater	Abyssopelagic		Environment	Environment					MT	Environment		PRJNA412129		
+7KL	7000	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA412129		
+7KS	7000	ds	6000-10000	Environment	Environment	seawater	Hadopelagic		Environment	Environment					MT	Environment		PRJNA412129		
+SRR5757138	800	c	0-1000	Environment	Environment	seawater	mesopelagic		Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757139	2900	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757140	200	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757145	1	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757146	200	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757147	2900	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757148	800	ds	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757149	1	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757154	1	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757155	200	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757156	800	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757157	2900	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757158	1	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757159	200	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757160	2900	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR5757161	800	c	0-1000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA389159		
+SRR11095128	1118	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA606380		
+SRR11095139	1118	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA606380		
+SRR11095150	1120	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA606380		
+SRR11095161	1120	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA606380		
+SRR11095162	1120	ds	1000-4000	Environment	Environment	seawater			Environment	Environment					SCS	Environment		PRJNA606380		
+SRR12578291.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A10			SRP279891		
+SRR12578292.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A9			SRP279891		
+SRR12578293.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A8			SRP279891		
+SRR12578294.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A7			SRP279891		
+SRR12578295.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A6			SRP279891		
+SRR12578296.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A5			SRP279891		
+SRR12578297.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C12			SRP279891		
+SRR12578298.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C11			SRP279891		
+SRR12578299.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C10			SRP279891		
+SRR12578300.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C9			SRP279891		
+SRR12578301.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C8			SRP279891		
+SRR12578302.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C7			SRP279891		
+SRR12578303.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A4			SRP279891		
+SRR12578304.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C6			SRP279891		
+SRR12578305.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C5			SRP279891		
+SRR12578306.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C4			SRP279891		
+SRR12578307	5	c	coastal seawater	Environment	Environment				Environment	Environment					C3			SRP279891		
+SRR12578308.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					C2			SRP279891		
+SRR12578309	5	c	coastal seawater	Environment	Environment				Environment	Environment					C1			SRP279891		
+SRR12578310.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B12			SRP279891		
+SRR12578311.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B11			SRP279891		
+SRR12578312.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B10			SRP279891		
+SRR12578313.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B9			SRP279891		
+SRR12578314.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A3			SRP279891		
+SRR12578315.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B8			SRP279891		
+SRR12578316.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B7			SRP279891		
+SRR12578317.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B6			SRP279891		
+SRR12578318.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B5			SRP279891		
+SRR12578319.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B4			SRP279891		
+SRR12578320.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B3			SRP279891		
+SRR12578321.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B2			SRP279891		
+SRR12578322.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					B1			SRP279891		
+SRR12578323.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A12			SRP279891		
+SRR12578324.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A11			SRP279891		
+SRR12578325.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A2			SRP279891		
+SRR12578326.sra	5	c	coastal seawater	Environment	Environment				Environment	Environment					A1			SRP279891		

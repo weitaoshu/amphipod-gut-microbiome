@@ -1,0 +1,74 @@
+names	nick	depth	depth_layer	isolation_source	Habitat_1	Habitat_0	rf	Lifestyle	grouping	diet	diet_algae	diet_carrion	diet_sediment	site	host_species	host_order	host_Superfamily	host_family	host_genus
+Halice1	Halice1	10910	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice2	Halice2	10910	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice3	Halice3	10910	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice4	Halice4	10910	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Halice5	Halice5	10910	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Halice sp. MT-2017	Amphipoda	Dexaminoidea	Pardaliscidae	Halice
+Hgigas1	Hg1	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas6	Hg2	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas3	Hg3	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas4	Hg4	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas5	Hg5	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas7	Hg6	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas8	Hg7	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+Hgigas9	Hg8	10109	>10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	H.gigas	Amphipoda	Lysianassoidea	Hirondelleidae	Hirondellea
+AG1	Ag1	6957	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG2	Ag2	6957	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG3	Ag3	7125	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG4	Ag4	7125	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG5	Ag5	6957	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG6	Ag6	6957	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+AG7	Ag7	7125	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	A.gigantea	Amphipoda	Alicelloidea	Alicellidae	Alicella
+Prin1	Prin1	8226	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin2	Prin2	8226	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin3	Prin3	8226	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+Prin4	Prin4	8226	6000-10000	Amphipod	Aquatic	Hadopelagic	h	Nekton	Scavenger	Scavenger	0	1	1	MT	Princaxelia sp.	Amphipoda	Dexaminoidea	Pardaliscidae	Princaxelia
+AD7	Ad7	2091	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+AD9	Ad9	2091	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+AD10	Ad10	2802	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	A.distinctus	Amphipoda	Lysianassoidea	Uristidae	Abyssorchomene
+Eusp1	Eusp1	1226	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp2	Eusp2	1226	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp3	Eusp3	1226	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Eusp4	Eusp4	1226	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	Eurythenes sp.	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag1	Emag1	1000	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	E.magellenicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag3	Emag2	1000	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	E.magellenicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag4	Emag3	1000	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	E.magellenicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag5	Emag4	1000	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	E.magellenicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Emag6	Emag5	1000	1000-4000	Amphipod	Aquatic	Bathypelagic	B	Nekton	Scavenger	Scavenger	0	1	1	SCS	E.magellenicus	Amphipoda	Lysianassoidea	Eurytheneidae	Eurythenes
+Hya1	Hya1	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya2	Hya2	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya3	Hya3	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya4	Hya4	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya5	Hya5	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya6	Hya6	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya7	Hya7	3	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya8	Hya8	4	0-1001	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Hya9	Hya9	5	0-1002	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	HY	Hyalidae sp.	Amphipoda	Talitroidea	Hyalidae	NA
+Ischy1	Ischy1	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+Ischy2	Ischy2	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+Ischy3	Ischy3	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	QD	Ischyroceridae sp.	Amphipoda	Photoidea	Ischyroceridae	NA
+SYA	Ampit1	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+SYB	Ampit2	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+SYC	Ampit3	2	0-1000	Amphipod	Aquatic	Intertidal	I	Plankton	Herbivore	Herbivore	1	0	0	SY	Ampithoe sp.	Amphipoda	Corophioidea	Ampithoidae	Ampithoe
+KA10	Spel1	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+KA11	Spel2	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+KA12	Tugo1	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Talorchestia ugolinii	Amphipoda	Talitroidea	Talitridae	Britorchestia
+KA13	Tugo2	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Talorchestia ugolinii	Amphipoda	Talitroidea	Talitridae	Britorchestia
+KA14	Ostep1	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Orchestia stephenseni	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA2	Tsal1	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA3	Omon1	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Orchestia montagui	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA4	Tsal2	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA5	Tsal3	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Talitrus saltator	Amphipoda	Talitroidea	Talitridae	Talitrus
+KA6	Ostep2	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Orchestia stephenseni	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA8	Omon2	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Orchestia montagui	Amphipoda	Talitroidea	Talitridae	Orchestia
+KA9	Spel3	0	sand	Amphipod	Terrestrial	Supralittoral	SP	Benthic	Detritivore	Detritivore	0	0	1	ITALY	Sardorchestia pelecaniformis	Amphipoda	Talitroidea	Talitridae	Sardorchestia
+XM1	Ampe2	7.7	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM2	Ampe5	5	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM4	Ampe4	5.7	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM5	Ampe10	5	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM6	Ampe11	8.2	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM7	Ampe8	7.7	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM9	Ampe1	7.5	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM10	Ampe7	8.8	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM12.1	Ampe6	7.3	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
+XM12.2	Ampe9	7.3	0-200	Amphipod	Aquatic	Subtidal	SB	Benthic	Detritivore	Detritivore	0	1	1	XM	Ampeliscidae sp.	Amphipoda	Ampeliscoidea	Ampeliscidae	NA
